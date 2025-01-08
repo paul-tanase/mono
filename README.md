@@ -1,0 +1,2 @@
+# mono
+My monorepo project
